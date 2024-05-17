@@ -11713,7 +11713,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -11838,7 +11838,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
               m.chat,
               {
                 document: {
-                  url: "https://i.ibb.co/2W0H9Jq/avatar-contact.png",
+                  url: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                 },
                 caption: xmenu_oh,
                 mimetype: "application/zip",
@@ -11873,7 +11873,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12025,7 +12025,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12177,7 +12177,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12330,7 +12330,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12482,7 +12482,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12634,7 +12634,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12786,7 +12786,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -12938,7 +12938,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13090,7 +13090,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13242,7 +13242,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13395,7 +13395,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13547,7 +13547,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13699,7 +13699,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -13851,7 +13851,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -14003,7 +14003,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -14155,7 +14155,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -14307,7 +14307,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
@@ -14459,7 +14459,7 @@ ${mot} 𝗗𝗮𝘁𝗲 : ${xdate}
                   externalAdReply: {
                     title: botname,
                     body: ownername,
-                    thumbnailUrl: "https://i.ibb.co/c8JJBZZ/peakpx-2.jpg",
+                    thumbnailUrl: "https://i.ibb.co/zs8tTfF/xliconpic.jpg",
                     sourceUrl: ``,
                     mediaType: 1,
                     renderLargerThumbnail: true,
