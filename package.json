@@ -1,6 +1,5 @@
 {
     "name": "Xlicon-V3-MD",
-    "version": "3.0",
     "description": "Whatsapp Bot By SalmanSer",
     "main": "index.js",
     "type": "commonjs",
